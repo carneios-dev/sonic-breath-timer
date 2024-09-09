@@ -1,0 +1,7 @@
+## Interface: 11000
+## Title: Sonic Breath Timer
+## Notes: Plays Sonic the Hedgehog 2 drowning music when the breath meter is running out and the player is going to drown.
+## Author: Carneios
+## Version: 1.0
+
+sonic-breath-timer.lua
