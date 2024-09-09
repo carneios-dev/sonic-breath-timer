@@ -1,0 +1,17 @@
+# Ignore LuaRocks files
+*.rock
+*.rockspec
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore compiled Lua files
+*.luac
+
+# Ignore backup files
+*.bak
+*.swp
